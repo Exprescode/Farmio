@@ -1,0 +1,57 @@
+# About Us
+
+FarmLogic was developed by team F-14-2, with the aim of teaching children programming methodology in a fun and interactive method
+
+We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
+
+## Project Team
+### Tan Yeh Han John
+image::https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/images/johntyh.png[width="150", align="left"]
+
+{empty}[http://github.com/TYH[github]] [https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/team/%5BCS2113T-F14-2%5D%5BTAN%20YEH%20HAN%20JOHN%5DPPP.pdf[portfolio]]
+
+Role: Developer
+
+Responsibilites: Game Assets, Farmer and Places, Menu
+
+'''
+
+### Tan Zheng Wen
+image::https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/images/tzw0.png[width="150", align="left"]
+{empty}[http://github.com/tzw0[github]] [https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/team/%5BCS2113T-F14-2%5D%5BTan%20Zheng%20Wen%5DPPP.pdf[portfolio]]
+
+Role: Developer
+
+Responsibilities: Frontend, Ui, Code Simulation, Action Execution
+
+'''
+
+### Tay Jing Xuan
+image::https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/images/jing-xuan.png[width="150", align="left"]
+{empty}[http://github.com/jing-xuan[github]] [https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/team/%5BAY1920S1-CS2113T-F14-2%5D%5BTay%20Jing%20Xuan%5DPPP.pdf[portfolio]]
+
+Role: Developer
+
+Responsibilites: Logic, Task, Condition, Action, Parser
+
+'''
+
+### Umar Bin Moiz
+image::https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/images/notahotdog.png[width="150", align="left"]
+{empty}[http://github.com/notahotdog[github]] [https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/team/%5BAY1920S1-CS2113T-F14-2%5D%5BUmar%20Bin%20Moiz%5DPPP.pdf[portfolio]]
+
+Role: Developer
+
+Responsibilites: Objectives, Feedback and Log
+
+'''
+
+### Yew Jing Hui
+image::https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/images/exprescode.png[width="150", align="left"]
+{empty}[http://github.com/Expresscode[github]] [https://github.com/AY1920S1-CS2113T-F14-2/main/blob/master/docs/team/%5BAY1920S1-CS2113T-F14-2%5D%5BYew%20Jing%20Hui%5DPPP.pdf[portfolio]]
+
+Role: Developer
+
+Responsibilites: Storage and Game State Logic
+
+'''
